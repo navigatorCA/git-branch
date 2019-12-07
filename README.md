@@ -7,10 +7,7 @@ This is the third paragraph
 
 Fourth Paragraph BOO~~ WOW!!!
 
-
-
-
-
+Hello GenTech
 
 
 The 1000th Message
